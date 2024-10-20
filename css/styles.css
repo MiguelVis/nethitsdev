@@ -1,0 +1,119 @@
+body {
+    color: #fff;
+    background-color: #181233;
+    font-family: roboto, sans-serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+.color-primary {
+    color: #fff;
+}
+
+.color-secondary {
+    color: #46D9AA;
+}
+
+div.main-box {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+p.title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+p.subtitle {
+    font-size: 1.50em;
+    font-weight: bold;
+}
+
+p.text {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+div.picture-box {
+    text-align: center;
+}
+
+div.picture-box > img {
+    width: 45%;
+    text-align: center;
+}
+
+div.links-box {
+    position: fixed;
+	bottom: 0;
+	width: 100%;
+    text-align: center;
+}
+
+a {
+    text-decoration: underline;
+}
+
+a:link {
+    color: #fff;
+}
+
+a:visited {
+    color: #fff;
+}
+
+a:hover {
+    color: #46D9AA;
+}
+
+a:active {
+    color: #fff;
+}
+
+a.button {
+    text-decoration: none;
+    padding: 1em;
+}
+
+a.button:link {
+    color: #000;
+    background-color: #46D9AA;
+}
+
+a.button:visited {
+    color: #000;
+    background-color: #46D9AA;
+}
+
+a.button:hover {
+    color: #000;
+    background-color: #fff;
+}
+
+a.button:active {
+    color: #000;
+    background-color: #fff;
+}
+
+a > i {
+    text-decoration: none;
+}
+
+a:link > i {
+    color: #fff;
+}
+
+a:visited > i {
+    color: #fff;
+}
+
+a:hover > i {
+    color: #46D9AA;
+}
+
+a:active > i {
+    color: #fff;
+}
